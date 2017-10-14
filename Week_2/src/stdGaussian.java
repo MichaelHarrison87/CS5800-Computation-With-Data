@@ -1,3 +1,5 @@
+package Week_2.src;
+
 public class stdGaussian{
 	public static void main(String[] args) {
 	

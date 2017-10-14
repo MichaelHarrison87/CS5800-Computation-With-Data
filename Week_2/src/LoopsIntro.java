@@ -1,3 +1,5 @@
+package Week_2.src;
+
 public class LoopsIntro{
 	public static void main(String[] args) {
 

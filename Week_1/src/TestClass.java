@@ -1,3 +1,5 @@
+package Week_1.src;
+
 public class TestClass {
 
     public static void main(String[] args) {

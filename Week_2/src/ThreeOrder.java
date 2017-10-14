@@ -1,4 +1,4 @@
-package Week
+package Week_2.src;
 
 public class ThreeOrder{
 	public static void main(String[] args) {

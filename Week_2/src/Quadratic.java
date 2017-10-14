@@ -1,4 +1,6 @@
-public class Quadratic { 
+package Week_2.src;
+
+public class Quadratic {
    public static void main(String[] args) { 
  
       // parse coefficients from command-line 

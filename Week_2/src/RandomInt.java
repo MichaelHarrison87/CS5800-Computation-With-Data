@@ -1,4 +1,6 @@
-public class RandomInt { 
+package Week_2.src;
+
+public class RandomInt {
    public static void main(String[] args) { 
       int N = Integer.parseInt(args[0]); 
       int M = Integer.parseInt(args[1]); 
