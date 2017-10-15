@@ -1,7 +1,7 @@
 package Week_3.src;
 
-// Note, does not print 2000, since the 1001 numbers between 1000 & 2000 (inclusive)
-// does not divide evenly into 5. Would have to put in special logic to get 200 to print on its own line.
+// Note, since the 1001 numbers between 1000 & 2000 (inclusive)
+// do not divide evenly into 5, have final print after the for loop to catch it.
 
 public class Q2_FivePerLine {
 
@@ -18,6 +18,7 @@ public class Q2_FivePerLine {
                 stringToOut = "";
             }
         }
+        System.out.println(stringToOut);
 
     }
 
